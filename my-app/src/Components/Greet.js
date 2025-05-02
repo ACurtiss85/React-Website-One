@@ -23,6 +23,7 @@ import React from 'react'
 // }
 
 // This is how to destructure props in the function parameter
+// Destructuring means we don't have to use props.name props.etc
 // const Greet = ({ name, heroName }) => {
 //   return (
 //     <div>
